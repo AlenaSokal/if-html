@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.advantages {
+    padding: 120px 105px;
+}
+
+.offer {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.offer__text {
+    height: 47px;
+    color: #383838;
+}
+
+hr {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F5BD41;
+    border: none;
+    width: 100px;
+    height: 4px;
+}
+
+.menu {
+    margin-top: 80px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu__item {
+    margin: 0 auto;
+    align-items: center;
+}
+
+.menu__item img {
+    margin-bottom: 48px;
+}
+
+.menu__item p {
+    margin: auto;
+    color: #383838;
+    height: 28px;
+}
